@@ -1,0 +1,19 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+*{
+    /* font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal; */
+    font-family: "Comic Neue", cursive;
+    font-weight: 400;
+    font-style: normal;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    color: white;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(2,1,11,0.9136904761904762) 50%, rgba(0,212,255,1) 100%);
+}

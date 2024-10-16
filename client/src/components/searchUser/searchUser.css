@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+input {
+  padding: 10px;
+  margin-right: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-left: 10px;
+}
+
+button {
+  border: 0;
+  outline: none;
+  background-color: purple;
+  color: white;
+  font-weight: 600;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.065);
+  margin-top: 20px;
+}
